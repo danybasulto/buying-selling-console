@@ -1,15 +1,15 @@
 # Comandos XAMPP
 
-## Iniciar base de datos
+## 1. Iniciar base de datos
 mysql -h localhost -u root -p
 
-## crear base de datos
+## 2. Crear base de datos
 create database **demo**;
 
-## Ver bases de datos
+## 3. Ver bases de datos
 show databases;
 
-## Editar base de datos
+## 4. Editar base de datos
 use **demo**;
 
 ### Crear tabla
